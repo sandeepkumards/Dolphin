@@ -1,7 +1,6 @@
 body {
-	font: 14px/24px 'Lato', Arial, Helvetica, sans-serif;
-	color: #303030;
-	background: #fff;
+	font-size:14px; line-height:1.5; font-family:'Roboto', Arial, sans-serif; color:#565a5c;-webkit-font-smoothing: antialiased;
+	background: url('../images/tile.jpg') top left repeat;
 }
 
 /* Standard Styles Starts */
@@ -197,12 +196,35 @@ h6 { font-size: 18px; }
 	background-color: #fff;
 }
 
+/* header menu style*/
+#nav {
+  margin-top:125px;
+}
+
+
+@media (min-width: 992px){
+	.img-padding{
+		padding-left: 40px;
+		padding-right: 120px;
+	}
+	li{
+		margin-right: 20px;
+	}
+	#nav{padding-left: 70px;}
+}
+@media screen and (max-width: 600px) and (min-width: 241px) {
+  #nav {
+    margin-top:194px!important;
+  }
+	.welcome{padding-top: 50px!important;}
+}
+
 /* Header Styles Starts */
 
 .main-header {
 	padding-top: 15px;
 	padding-bottom: 20px;
-	background-color: #88e54d;
+	background-color: ghostwhite;
 }
 	.logo {
 		margin-top: 19px;
@@ -232,6 +254,7 @@ h6 { font-size: 18px; }
 			margin-bottom: 0;
 			font-size: 24px;
 			font-weight: bold;
+			color:#4267b2;
 		}
 			.order-info li.lead .fa {
 				margin-right: 10px;
@@ -249,7 +272,7 @@ h6 { font-size: 18px; }
 
 .main-menu {
 	margin-bottom: 0;
-	background-color: #ba3622;
+	background-color: #4267b2;
 	border: solid #ea4d35;
 	border-width: 1px 0 0 0;
 }
@@ -506,10 +529,10 @@ h6 { font-size: 18px; }
 /* Welcome Section Styles Starts */
 
 .welcome {
-	padding-top: 50px;
+	padding-top: 10px;
 }
 	.welcome-box {
-		padding: 10px 30px 30px;
+		padding: 10px 30px 74px;
 		color: #787878;
 		border: 1px solid #e5e5e5;
 	}
@@ -1782,7 +1805,7 @@ h6 { font-size: 18px; }
 			}
 
 	.foot-address {
-		padding-top: 35px;
+		padding-top: 15px;
 		padding-bottom: 35px;
 	}
 		.page-links li,
