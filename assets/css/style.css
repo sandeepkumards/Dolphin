@@ -246,7 +246,17 @@ a.socialIcon:hover, .socialHoverClass {
 
 .maddress{text-align: center;display:none}
 
+#footer-menu{padding-top:26px;}
 .social-div{padding-top: 32px;}
+
+@media (max-width: 1439px){
+  .social-div{padding-top: 20px;}
+  #footer-menu{padding-top:12px!important;}
+  .food-menu-grid {
+  	margin-top: 28px;
+  }
+}
+
 
 @media (min-width: 992px)
 .col-md-offset-1 {
