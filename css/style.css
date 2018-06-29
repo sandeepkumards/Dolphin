@@ -3,6 +3,29 @@ body {
 	background: url('../images/tile.jpg') top left repeat;
 }
 
+
+.feature-image {
+	display: table;
+	width: 100%;
+}
+
+.feature-image-default {
+	background: url('../img/stuff-feature.jpg') no-repeat;
+	background-size: cover;
+}
+
+.feature-image-default-alt {
+	background: url('../images/test.jpg') no-repeat;
+	background-size: cover;
+}
+
+.feature-image h1 {
+	display: table-cell;
+	vertical-align: middle;
+	text-align: center;
+	color: white;
+}
+
 /* Standard Styles Starts */
 
 a { color: #cf3d27; }
@@ -216,7 +239,7 @@ h6 { font-size: 18px; }
   #nav {
     margin-top:194px!important;
   }
-	.welcome{padding-top: 50px!important;}
+	.welcome{padding-top: 55%!important;}
 }
 
 /* Header Styles Starts */
@@ -529,7 +552,7 @@ h6 { font-size: 18px; }
 /* Welcome Section Styles Starts */
 
 .welcome {
-	padding-top: 10px;
+	padding-top: 8%;
 }
 	.welcome-box {
 		padding: 10px 30px 74px;

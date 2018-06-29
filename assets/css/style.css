@@ -1,5 +1,4 @@
 body {
-    padding-top: 140px;
     font-size:14px; line-height:1.5; font-family:'Roboto', Arial, sans-serif; color:#565a5c;-webkit-font-smoothing: antialiased;
   }
   #body-content{
@@ -248,7 +247,7 @@ a.socialIcon:hover, .socialHoverClass {
 
 #footer-menu{padding-top:26px;}
 .social-div{padding-top: 32px;}
-
+.email-padding{padding-left: 130px;}
 @media (max-width: 1439px){
   .social-div{padding-top: 20px;}
   #footer-menu{padding-top:12px!important;}
@@ -276,6 +275,8 @@ a.socialIcon:hover, .socialHoverClass {
      #maddress{display:block;}
      #contact-div-row{padding:10px 25px 0 25px;border:1px dashed #ddd;padding:10px;position:relative;background:#f9f9f9;}
      #social-div{padding-top: 0px;}
+     .email-padding{padding-left:0px!important;}
+
 
 }
 @media screen and (min-width:480px) and (max-width:650px){
@@ -286,6 +287,7 @@ a.socialIcon:hover, .socialHoverClass {
      #maddress{display:block;}
      #contact-div-row{padding:10px 25px 0 25px;border:1px dashed #ddd;padding:10px;position:relative;background:#f9f9f9;}
      #social-div{padding-top: 0px;}
+     .email-padding{padding-left:0px!important;}
 
 }
 
