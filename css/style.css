@@ -221,7 +221,7 @@ h6 { font-size: 18px; }
 
 /* header menu style*/
 #nav {
-  margin-top:125px;
+  margin-top:99px;
 }
 
 
@@ -552,12 +552,12 @@ h6 { font-size: 18px; }
 /* Welcome Section Styles Starts */
 
 .welcome {
-	padding-top: 8%;
+	padding-top: 0%;
 }
 	.welcome-box {
 		padding: 10px 30px 74px;
 		color: #787878;
-		border: 1px solid #e5e5e5;
+	/*	border: 1px solid #e5e5e5; */
 	}
 		.welcome-box h1 {
 			margin-bottom: 25px;
@@ -1995,7 +1995,7 @@ h6 { font-size: 18px; }
 
 .img-center {
 	margin-left: auto;
-	margin-right: auto;
+	/* margin-right: auto; */
 }
 
 .clause-style-1 {
