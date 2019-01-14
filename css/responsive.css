@@ -1,32 +1,32 @@
 /* Large Devices Styles Starts */
 
 @media (min-width: 1200px) {
-	
-/* Main Menu Styles Starts */	
-	
+
+/* Main Menu Styles Starts */
+
 	.main-menu .dropdown:hover .dropdown-menu {
 		display: block;
-	}	
-	
+	}
+
 /* Menu Card Section Styles Starts */
 
 .menu-card {
-	padding-bottom: 100px;	
+	padding-bottom: 100px;
 }
-	.menu-card .owl-carousel .owl-buttons .owl-prev, 
+	.menu-card .owl-carousel .owl-buttons .owl-prev,
 	.menu-card .owl-carousel .owl-buttons .owl-next {
-		position: absolute;			
+		position: absolute;
 	}
 		.menu-card .owl-carousel .owl-buttons .owl-prev {
 			right: 14%;
 		}
 		.menu-card .owl-carousel .owl-buttons .owl-next {
-			right: 10%;			
+			right: 10%;
 		}
-	
+
 /* Special Offers Section Styles Starts */
 
-	.special-offers .owl-carousel .owl-prev, 
+	.special-offers .owl-carousel .owl-prev,
 	.special-offers .owl-carousel .owl-next {
 		position: absolute;
 		top: 45%;
@@ -40,7 +40,7 @@
 		.special-offers .owl-carousel .owl-buttons div .fa {
 			font-size: 48px;
 		}
-	
+
 /* News & Event Section Styles Starts */
 
 	.news-event-teaser .news-meta {
@@ -65,47 +65,47 @@
 		font-size: 20px;
 		line-height: 26px;
 	}
-	
+
 /* Download App Section Styles Starts */
 
 .dowload-app .content {
 	padding-top: 30px;
-}	
+}
 
 /* Login Page Styles Starts */
-	
+
 	.content-login-wrap > .row {
 		background: url(../images/divider-1.png) repeat-y center;
 	}
-	
+
 /* Generic Styles Starts */
 
 	.text-left-lg   { text-align: left;   }
 	.text-center-lg { text-align: center; }
-	.text-right-lg  { text-align: right;  }	
-	
+	.text-right-lg  { text-align: right;  }
+
 	.pull-left-lg  { float: left;  }
-	.pull-right-lg { 
+	.pull-right-lg {
 		left: auto;
 		right: 0;
 	}
-	
+
 }
 
 /* Medium Devices Styles Starts */
 
 @media (min-width: 992px) and (max-width: 1199px) {
-	
-/* Main Menu Styles Starts */	
-	
+
+/* Main Menu Styles Starts */
+
 	.main-menu .navbar-nav > li > a {
 		padding-left: 15px;
 		padding-right: 15px;
 	}
 		.main-menu .dropdown:hover .dropdown-menu {
 			display: block;
-		}	
-	
+		}
+
 /* Welcome Section Styles Starts */
 
 	.welcome-box {
@@ -122,12 +122,12 @@
 			margin-top: 10px;
 			padding: 10px 20px;
 		}
-		
+
 /* Menu Card Section Styles Starts */
 
 .menu-card {
-}	
-.menu-card .slide1, 
+}
+.menu-card .slide1,
 .menu-card .slide2 {
 	background-image: none;
 }
@@ -141,10 +141,10 @@
 		top: -60px;
 		font-size: 52px;
 	}
-	
+
 /* Special Offers Section Styles Starts */
 
-	.special-offers .owl-carousel .owl-prev, 
+	.special-offers .owl-carousel .owl-prev,
 	.special-offers .owl-carousel .owl-next {
 		position: absolute;
 		top: 45%;
@@ -157,8 +157,8 @@
 	}
 		.special-offers .owl-carousel .owl-buttons div .fa {
 			font-size: 38px;
-		}	
-	
+		}
+
 /* News & Event Section Styles Starts */
 
 	.news-event-teaser .news-meta {
@@ -183,7 +183,7 @@
 		font-size: 20px;
 		line-height: 26px;
 	}
-	
+
 /* Side Block Styles Starts */
 
 	.side-block-order {
@@ -194,25 +194,25 @@
 		.side-block-order .dl-horizontal dd {
 			margin-left: 0;
 		}
-	
+
 /* Hotel Grid List Styles Starts */
 
 .hotels-list-grid .grid-box .delivery-time {
 	left: 45%;
 	right: auto;
 }
-	.hotels-list-grid .grid-box .content { 
+	.hotels-list-grid .grid-box .content {
 		padding-top: 30px;
 	}
-		.hotels-list-grid .grid-box-tags, 
+		.hotels-list-grid .grid-box-tags,
 		.hotels-list-grid .grid-box-info-links {
 			margin-bottom: 5px;
 		}
-			.hotels-list-grid .grid-box-info .btn-secondary { 
+			.hotels-list-grid .grid-box-info .btn-secondary {
 				margin-top: 5px;
 				margin-bottom: 10px;
 			}
-	
+
 /* Download App Section Styles Starts */
 
 .dowload-app .content {
@@ -230,11 +230,11 @@
 	}
 
 /* Login Page Styles Starts */
-	
+
 	.content-login-wrap > .row {
 		background: url(../images/divider-1.png) repeat-y center;
-	}	
-	
+	}
+
 /* Footer Top Styles Starts */
 
 	.page-links {
@@ -247,20 +247,20 @@
 			.sm-links li a.btn-secondary {
 				padding: 4px 8px;
 			}
-	
+
 /* Generic Styles Starts */
 
 	.img-center-md {
 		margin-left: auto;
 		margin-right: auto;
-	}	
-	
+	}
+
 	.text-left-md   { text-align: left;   }
 	.text-center-md { text-align: center; }
-	.text-right-md  { text-align: right;  }		
-	
+	.text-right-md  { text-align: right;  }
+
 	.pull-left-md  { float: left;  }
-	.pull-right-md { 
+	.pull-right-md {
 		left: auto;
 		right: 0;
 	}
@@ -270,27 +270,27 @@
 /* Small Devices Styles Starts */
 
 @media (min-width: 768px) and (max-width: 991px) {
-	
+
 /* Heading Styles Starts */
-		
+
 	.main-heading-1 .btn-main {
 		margin-top: 15px;
 		margin-left: 0;
 	}
-	
+
 /* Header Styles Starts */
 
 	.logo {
 		margin-top: 21px;
 	}
-	
-/* Main Menu Styles Starts */	
-	
+
+/* Main Menu Styles Starts */
+
 	.main-menu .navbar-nav > li > a {
 		padding-left: 6px;
 		padding-right: 6px;
 		font-size: 13px;
-	}	
+	}
 		.main-menu .navbar-nav > li > a .fa {
 			margin-left: 3px;
 			font-size: 15px;
@@ -298,14 +298,14 @@
 		.main-menu .dropdown:hover .dropdown-menu {
 			display: block;
 		}
-		
+
 /* Main Banner Section Styles Starts */
 
 .main-banner {
 	padding-top: 50px;
 	padding-bottom: 50px;
-}		
-	
+}
+
 /* Order Info Styles Starts */
 
 	.order-info li.lead {
@@ -315,8 +315,8 @@
 		.order-info li.lead .fa {
 			margin-right: 5px;
 			font-size: 18px;
-		}	
-	
+		}
+
 /* Welcome Section Styles Starts */
 
 	.welcome-box {
@@ -332,13 +332,13 @@
 		.welcome-box .btn-secondary {
 			margin-top: 10px;
 			padding: 10px 20px;
-		}	
-		
+		}
+
 /* Menu Card Section Styles Starts */
 
 .menu-card {
 }
-.menu-card .slide1, 
+.menu-card .slide1,
 .menu-card .slide2 {
 	background-image: none;
 }
@@ -352,11 +352,11 @@
 		top: -25px;
 		font-size: 42px;
 	}
-			
-	
+
+
 /* Special Offers Section Styles Starts */
 
-	.special-offers .owl-carousel .owl-prev, 
+	.special-offers .owl-carousel .owl-prev,
 	.special-offers .owl-carousel .owl-next {
 		position: absolute;
 		top: 45%;
@@ -369,8 +369,8 @@
 	}
 		.special-offers .owl-carousel .owl-buttons div .fa {
 			font-size: 28px;
-		}	
-	
+		}
+
 /* News & Event Section Styles Starts */
 
 .news-event-teaser {
@@ -403,34 +403,34 @@
 			font-size: 20px;
 			line-height: 26px;
 		}
-		
+
 /* Hotel List Styles Starts */
 
 	.hotels-list .list-box {
 		padding-bottom: 25px;
-	}	
+	}
 		.hotels-list .list-box-info {
 			margin-left: 0;
 		}
-		
+
 /* Hotel Grid List Styles Starts */
 
 .hotels-list-grid .grid-box .delivery-time {
 	left: 45%;
 	right: auto;
 }
-	.hotels-list-grid .grid-box .content { 
+	.hotels-list-grid .grid-box .content {
 		padding-top: 30px;
 	}
-		.hotels-list-grid .grid-box-tags, 
+		.hotels-list-grid .grid-box-tags,
 		.hotels-list-grid .grid-box-info-links {
 			margin-bottom: 5px;
 		}
-			.hotels-list-grid .grid-box-info .btn-secondary { 
+			.hotels-list-grid .grid-box-info .btn-secondary {
 				margin-top: 5px;
 				margin-bottom: 5px;
-			}		
-	
+			}
+
 /* Download App Section Styles Starts */
 
 	.dowload-app h3 {
@@ -442,31 +442,31 @@
 		.dowload-app li + li {
 			margin-left: 0;
 		}
-		
+
 /* Contact Page Styles Starts */
 
-	.contact-left-col {	
+	.contact-left-col {
 		margin-bottom: 60px;
 	}
-	
+
 /* Footer Top Styles Starts */
 
 	.footer-top li:last-of-type {
 		margin-left: 0;
 		margin-top: 10px;
 	}
-	.newsletter-form .form-control,	
+	.newsletter-form .form-control,
 	.newsletter-form .btn-secondary {
 		font-size: 16px;
 	}
-	
+
 /* Footer Area Styles Starts */
 
-	.page-links { 
+	.page-links {
 		margin-top: 30px;
 		margin-bottom: 15px;
 	}
-	
+
 /* List Styles Starts */
 
 .list-style-1 {
@@ -474,45 +474,45 @@
 }
 .list-style-1 li {
 	padding-top: 5px;
-}	
-	
+}
+
 /* Generic Styles Starts */
 
 	.img-center-sm {
 		margin-left: auto;
 		margin-right: auto;
-	}	
-	
+	}
+
 	.text-left-sm   { text-align: left;   }
 	.text-center-sm { text-align: center; }
-	.text-right-sm  { text-align: right;  }	
+	.text-right-sm  { text-align: right;  }
 
 	.pull-left-sm  { float: left;  }
-	.pull-right-sm { 
+	.pull-right-sm {
 		left: auto;
 		right: 0;
-	}	
-	
+	}
+
 }
 
 /* Extra Small Devices Styles Starts */
 
 @media (max-width: 767px) {
-	
+
 /* Heading Styles Starts */
-		
+
 	.main-heading-1 .btn-main {
 		margin-top: 15px;
 		margin-left: 0;
-	}	
-	
+	}
+
 /* Header Styles Starts */
 
 	.logo {
 		margin-top: 15px;
 		margin-bottom: 15px;
-	}	
-	
+	}
+
 /* Main Menu Styles Starts */
 
 	.main-menu .navbar-collapse {
@@ -526,12 +526,12 @@
 			padding: 5px 10px;
 			color: #fff;
 		}
-		.main-menu .navbar-toggle:hover, 
+		.main-menu .navbar-toggle:hover,
 		.main-menu .navbar-toggle:focus {
 			background-color: #ea4d35;
 			outline: none;
 		}
-		
+
 /* Main Banner Section Styles Starts */
 
 .main-banner {
@@ -541,20 +541,20 @@
 	.main-banner h1 {
 		font-size: 48px;
 	}
-	
+
 /* Search Section Styles Starts */
 
 .search-area {
 	padding-top: 70px;
 	padding-bottom: 100px;
 }
-	.top-search .input-group-md, 
-	.top-search .input-group .form-control, 
-	.top-search .input-group-addon, 
+	.top-search .input-group-md,
+	.top-search .input-group .form-control,
+	.top-search .input-group-addon,
 	.top-search .input-group-btn {
 		display: block;
 	}
-	.top-search .input-group-addon, 
+	.top-search .input-group-addon,
 	.top-search .input-group-btn {
 		width: auto;
 	}
@@ -564,11 +564,11 @@
 	.top-search .btn-secondary {
 		margin-top: 15px;
 	}
-	.top-search .search-panel .btn, 
+	.top-search .search-panel .btn,
 	.top-search .btn-secondary {
 		width: 100%;
 	}
-	
+
 /* Welcome Section Styles Starts */
 
 	.welcome-box {
@@ -585,20 +585,20 @@
 		.welcome-box .btn-secondary {
 			margin-top: 10px;
 			padding: 10px 20px;
-		}	
-		
+		}
+
 /* Food Menu Grid Styles Starts */
 
 	.food-menu-grid .hover-content .overlay h4 {
 		margin-top: 13%;
 	}
-	
+
 /* Menu Card Section Styles Starts */
 
 .menu-card {
 	padding-bottom: 50px;
 }
-.menu-card .slide1, 
+.menu-card .slide1,
 .menu-card .slide2 {
 	background-image: none;
 }
@@ -611,14 +611,14 @@
 	.menu-card h1 sup {
 		top: -25px;
 		font-size: 42px;
-	}	
+	}
 	.menu-card ul {
 		margin-top: 10px;
 	}
 	.menu-card ul:first-of-type {
 		margin-top: 20px;
 	}
-	
+
 /* Special Offers Section Styles Starts */
 
 	.special-offers .owl-carousel .owl-buttons {
@@ -626,8 +626,8 @@
 	}
 		.special-offers .owl-carousel .owl-buttons div .fa {
 			font-size: 28px;
-		}		
-	
+		}
+
 /* Special Offers Section Styles Starts */
 
 	.special-offers .owl-carousel {
@@ -637,7 +637,7 @@
 			margin-left: 5px;
 			margin-right: 5px;
 		}
-	
+
 /* News & Event Section Styles Starts */
 
 .news-event-teaser {
@@ -654,8 +654,8 @@
 		.news-event-teaser h6 {
 			font-size: 20px;
 			line-height: 30px;
-		}	
-		
+		}
+
 /* Hotel List Styles Starts */
 
 	.hotels-list .list-box {
@@ -664,25 +664,25 @@
 		.hotels-list .list-box-info {
 			margin-left: 0;
 		}
-		
+
 /* Hotel Grid List Styles Starts */
 
 .hotels-list-grid .grid-box .delivery-time {
 	left: 45%;
 	right: auto;
 }
-	.hotels-list-grid .grid-box .content { 
+	.hotels-list-grid .grid-box .content {
 		padding-top: 30px;
 	}
-		.hotels-list-grid .grid-box-tags, 
+		.hotels-list-grid .grid-box-tags,
 		.hotels-list-grid .grid-box-info-links {
 			margin-bottom: 5px;
 		}
-			.hotels-list-grid .grid-box-info .btn-secondary { 
+			.hotels-list-grid .grid-box-info .btn-secondary {
 				margin-top: 10px;
 				margin-bottom: 10px;
-			}		
-	
+			}
+
 /* Download App Section Styles Starts */
 
 	.dowload-app h3 {
@@ -690,17 +690,17 @@
 	}
 	.dowload-app li {
 		margin-bottom: 10px;
-	}	
+	}
 	.dowload-app li + li {
 		margin-left: 0;
 	}
-	
+
 /* Contact Page Styles Starts */
 
 	.contact-left-col {
 		margin-bottom: 30px;
 	}
-		.contact-details h5 { 
+		.contact-details h5 {
 			line-height: 34px;
 		}
 		.contact-left-col ul {
@@ -709,7 +709,7 @@
 			.contact-left-col ul > li {
 				margin-bottom: 20px;
 			}
-	
+
 /* Menu Tabs Styles */
 
 	.nav-menu-tabs {
@@ -719,29 +719,29 @@
 			margin: 0 10px;
 		}
 		.nav-menu-tabs > li.active {
-			border: none;	
+			border: none;
 		}
 			.nav-menu-tabs > li > a {
 				margin-right: 0;
 			}
-			
+
 /* Order Menu Tab Pane Starts */
 
-	.order-menu-item .pull-left, 
+	.order-menu-item .pull-left,
 	.order-menu-item .pull-right {
-		float: none !important; 
-	}	
+		float: none !important;
+	}
 		.order-menu-item .btn {
 			margin-top: 10px;
 			margin-bottom: 5px;
-		}	
-	
+		}
+
 /* Gallery Grid Styles Starts */
 
 	.gallery-grid .hover-content .overlay a.zoom {
 		margin-top: 16%;
 	}
-	
+
 /* Footer Top Styles Starts */
 
 	.footer-top li:last-of-type {
@@ -754,14 +754,14 @@
 	.newsletter-form .btn-secondary {
 		margin-top: 10px;
 	}
-	
+
 /* Footer Area Styles Starts */
 
-	.page-links { 
+	.page-links {
 		margin-top: 20px;
 		margin-bottom: 10px;
-	}	
-	
+	}
+
 /* List Styles Starts */
 
 .list-style-1 {
@@ -770,7 +770,7 @@
 }
 .list-style-1 li {
 	padding-top: 5px;
-}	
+}
 
 /* Modal Window Styles Starts */
 
@@ -784,47 +784,47 @@
 			#registerModal .modal-body .btn-tertiary > .fa {
 				display: none;
 			}
-	
+
 /* Generic Styles Starts */
 
 	.img-center-xs {
 		margin-left: auto;
 		margin-right: auto;
-	}	
-	
+	}
+
 	.text-left-xs   { text-align: left;   }
 	.text-center-xs { text-align: center; }
-	.text-right-xs  { text-align: right;  }		
-	
+	.text-right-xs  { text-align: right;  }
+
 	.pull-left-xs  { float: left;  }
-	.pull-right-xs { 
+	.pull-right-xs {
 		left: auto;
 		right: 0;
 	}
-	
-	.top-search .search-panel .btn, 
+
+	.top-search .search-panel .btn,
 	.top-search .btn-secondary {
 		-webkit-border-radius: 0;
 		   -moz-border-radius: 0;
 				border-radius: 0;
 	}
-	
+
 }
 
 /* Extremely Small Devices Styles Starts */
 
 @media (max-width: 478px) {
-	
+
 /* Welcome Section Styles Starts */
 
 	.welcome-box {
-		padding: 0 15px 15px;
+		padding: 46px 15px 15px;
 		margin-bottom: 20px;
 	}
 		.welcome-box h1 {
 			margin-bottom: 15px;
 			font-size: 40px;
-		}			
+		}
 
 /* Side Block Styles Starts */
 
@@ -838,38 +838,38 @@
 		.side-block-order .dl-horizontal dd {
 			margin-left: 0;
 		}
-		
+
 /* Food Menu Grid Styles Starts */
 
 	.food-menu-grid .hover-content .overlay h4 {
 		font-size: 26px;
-	}		
-	
+	}
+
 /* Login Page Styles Starts */
 
-	.content-login-wrap .btn-secondary, 
+	.content-login-wrap .btn-secondary,
 	.content-login-wrap .btn-tertiary {
 		font-size: 16px;
 	}
-	.content-login-wrap .btn-twitter, 
-	.content-login-wrap .btn-fb, 
+	.content-login-wrap .btn-twitter,
+	.content-login-wrap .btn-fb,
 	.content-login-wrap .btn-secondary.tiny {
 		padding: 6px 12px;
 		font-size: 14px;
 	}
-		.content-login-wrap .btn-secondary > .fa, 
-		.content-login-wrap .btn-tertiary > .fa, 
-		.content-login-wrap .btn-twitter > .fa, 
+		.content-login-wrap .btn-secondary > .fa,
+		.content-login-wrap .btn-tertiary > .fa,
+		.content-login-wrap .btn-twitter > .fa,
 		.content-login-wrap .btn-fb > .fa {
 			display: none;
 		}
-		
+
 /* Menu Tabs Styles */
 
 .nav-menu-tabs {
 	margin-bottom: 30px;
 	padding: 14px 0;
-}	
+}
 	.nav-menu-tabs > li {
 		margin: 0 5px;
 	}
@@ -877,14 +877,14 @@
 		float: none;
 		display: inline-block;
 	}
-	.nav-menu-tabs > li.active { 
+	.nav-menu-tabs > li.active {
 	}
 		.nav-menu-tabs > li > a {
 			margin: 0;
 			padding: 5px 0;
 			font-size: 15px;
 		}
-		
+
 /* Order Menu Tab Pane Starts */
 
 	.order-menu-item .btn {
@@ -917,5 +917,5 @@
 		padding: 10px 40px;
 		font-size: 16px;
 	}
-	
+
 }

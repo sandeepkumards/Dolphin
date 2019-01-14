@@ -220,11 +220,6 @@ h6 { font-size: 18px; }
 }
 
 /* header menu style*/
-#nav {
-  margin-top:99px;
-}
-
-
 @media (min-width: 992px){
 	.img-padding{
 		padding-left: 40px;
@@ -235,18 +230,11 @@ h6 { font-size: 18px; }
 	}
 	#nav{padding-left: 70px;}
 }
-@media screen and (max-width: 600px) and (min-width: 241px) {
-  #nav {
-    margin-top:194px!important;
-  }
-	.welcome{padding-top: 55%!important;}
-}
 
 /* Header Styles Starts */
 
 .main-header {
-	padding-top: 15px;
-	padding-bottom: 20px;
+	padding-top: 18px;
 	background-color: ghostwhite;
 }
 	.logo {
@@ -294,10 +282,7 @@ h6 { font-size: 18px; }
 /* Main Menu Styles Starts */
 
 .main-menu {
-	margin-bottom: 0;
 	background-color: #4267b2;
-	border: solid #ea4d35;
-	border-width: 1px 0 0 0;
 }
 	.main-menu .navbar-collapse {
 		padding-left: 0;
@@ -2129,11 +2114,6 @@ h6 { font-size: 18px; }
 	box-shadow: 0 0 5px rgba(0, 0, 0, 0.8);
 }
 
-.main-menu {
-	-webkit-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
-	   -moz-box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
-		    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.4);
-}
 
 .main-menu .dropdown-menu {
 	-webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.4);
@@ -2172,4 +2152,10 @@ h6 { font-size: 18px; }
 	-webkit-transition: all 1s ease;
 	   -moz-transition: all 1s ease;
 		    transition: all 1s ease;
+}
+
+#welcome{
+	padding-top:180px;
+	margin-bottom:13px;
+	background-color:black;
 }
